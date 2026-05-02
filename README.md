@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there 👋, I'm Krishnendu</h1>
-  <h3>🚀 Aspiring Software Development Engineer | Data Science & AI/ML Enthusiast</h3>
+  <h3>🚀 Aspiring Software Development Engineer</h3>
   
   <p>
-    I am an IT undergraduate passionate about leveraging technology to build scalable, impactful applications and solve real-world problems. I love exploring the intersections of Full-Stack Development and Artificial Intelligence.
+    I am an IT undergraduate passionate about leveraging technology to build scalable, impactful applications. While my current foundation is in Full-Stack Development, my major goal is to deeply learn and master Data Science and Machine Learning during my engineering journey.
   </p>
 </div>
 
@@ -11,10 +11,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **IT Undergraduate** exploring software engineering, business analytics, and machine learning.
-- 🏆 Passionate about building AI-powered applications and scalable web architectures.
-- 💡 **Focus Areas:** Full-Stack Web Development, Data Science, and AI Integrations.
-- 🌱 **Currently Learning:** Advanced Machine Learning architectures and Cloud Infrastructure.
+- 🎓 **IT Undergraduate** focusing on software engineering and full-stack web development.
+- 🎯 **My Goal:** I am actively learning and aiming to master **Machine Learning and Data Science** throughout my engineering studies.
+- 💡 **Current Focus Areas:** Full-Stack Web Development, UI/UX Design, and building AI-integrated apps.
+- 🌱 **Currently Learning:** Expanding my knowledge in data structures, algorithms, and foundational data science concepts.
 - 💬 Ask me about: **React.js, Firebase, Python, and UI/UX design.**
 
 ---
@@ -26,7 +26,6 @@
   <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </details>
 
 <details open>
@@ -39,11 +38,10 @@
 </details>
 
 <details open>
-  <summary><b>Backend, Cloud & AI</b></summary>
+  <summary><b>Backend & Deployment</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </details>
 
@@ -60,11 +58,12 @@
 ---
 
 ### ⚡ What I Do
-- 🌟 Architect real-time serverless backends using modern cloud infrastructure.
-- 🤖 Integrate AI models for intelligent real-time data processing and analytics.
+- 🌟 Build scalable full-stack web applications and real-time backends.
+- 🤖 Integrate AI tools (like the Gemini API) to create smart, interactive projects.
 - 🎨 Design premium, highly responsive user interfaces.
 
 <br/>
 <div align="center">
   <i>"Turning coffee into code and ideas into reality."</i>
 </div>
+
