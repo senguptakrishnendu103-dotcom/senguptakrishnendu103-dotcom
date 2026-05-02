@@ -1,7 +1,14 @@
 <div align="center">
+  <!-- Animated Wavy Background Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20World&fontSize=40&fontAlignY=38&animation=twinkling&fontColor=ffffff" width="100%" />
+
   <h1>Hi there 👋, I'm Krishnendu</h1>
-  <h3>🚀 Aspiring Software Development Engineer</h3>
   
+  <!-- Moving Letters (Typing Effect) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Software+Engineer;Exploring+Data+Science;Mastering+Machine+Learning" alt="Typing SVG" />
+  
+  <br/>
+
   <p>
     I am an IT undergraduate passionate about leveraging technology to build scalable, impactful applications. While my current foundation is in Full-Stack Development, my major goal is to deeply learn and master Data Science and Machine Learning during my engineering journey.
   </p>
@@ -66,4 +73,5 @@
 <div align="center">
   <i>"Turning coffee into code and ideas into reality."</i>
 </div>
+
 
